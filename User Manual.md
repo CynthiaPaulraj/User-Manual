@@ -23,7 +23,7 @@ Data Visualization is a representation of data through common graphics, such as 
 
 _Figure 1: Data Science Lifecycle_
 
-For more information click here https://www.ibm.com/topics/data-science#:~:text=the%20next%20step-,What%20is%20data%20science%3F,hidden%20in%20an%20organization%27s%20data.
+For more information [click here]https://www.ibm.com/topics/data-science#:~:text=the%20next%20step-,What%20is%20data%20science%3F,hidden%20in%20an%20organization%27s%20data.
 
 The role of Machine Learning in Data Science:
 Machine Learning:
