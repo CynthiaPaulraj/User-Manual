@@ -26,7 +26,7 @@ Predictive Modeling uses statistical techniques to predict the future behavior. 
 
 Data Visualization is a representation of data through common graphics, such as charts, plots, infographics, animations for better understanding.
  
-        ![Picture2](https://github.com/CynthiaPaulraj/User-Manual/assets/106270841/e0332573-7d26-464a-93bf-66aba082b88f)
+![Picture2](https://github.com/CynthiaPaulraj/User-Manual/assets/106270841/e0332573-7d26-464a-93bf-66aba082b88f)
 
 Figure 1: Data Science Lifecycle
 
