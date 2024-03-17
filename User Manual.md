@@ -39,8 +39,6 @@ Machine Learning types:
  
 Figure 2: Types of Machine Learning
 
-
-
 1.	Supervised Learning:
 
 Supervised Learning is a category of machine learning that uses labeled datasets to train algorithms to predict outcomes and recognize patterns.  The training model continues until the model achieves the desired level of accuracy on the training data.  Regression, Decision tree, Random Forest, KNN, Logistic Regression statistics methods are used in the Supervised Learning.
