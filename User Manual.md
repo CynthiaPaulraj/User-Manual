@@ -27,7 +27,7 @@ Data Visualization is a representation of data through common graphics, such as 
  
 ![Picture2](https://github.com/CynthiaPaulraj/User-Manual/assets/106270841/e0332573-7d26-464a-93bf-66aba082b88f)
 
-_Figure 1: Data Science Lifecycle_
+**_Figure 1: Data Science Lifecycle_**
 
 For more information [click here]https://www.ibm.com/topics/data-science#:~:text=the%20next%20step-,What%20is%20data%20science%3F,hidden%20in%20an%20organization%27s%20data.
 
