@@ -52,15 +52,15 @@ Machine Learning types:
 - [x] Ensemble Learning
 - [ ] Neural Networks
 
-`Ensemble Learning`
+`Ensemble Learning
 
-Ensemble Learning is an approach in which two or more models are fitted to the same data, and the predictions for each model are combined to achieve better performance. It yields better results if there are significant differences among the models
+Ensemble Learning is an approach in which two or more models are fitted to the same data, and the predictions for each model are combined to achieve better performance. It yields better results if there are significant differences among the models`
 
-Neural Networks:
+```Neural Networks:
 
 A neural network teaches computers to process data that is inspired by the human brain. It is also called deep learning. It uses interconnected nodes in a layered structure that resembles the human brain.
 
-Neural networks make intelligent decisions with limited human assistance. It makes general observations without explicit training. It shows its best results using Natural Language processing (NLP) method.
+Neural networks make intelligent decisions with limited human assistance. It makes general observations without explicit training. It shows its best results using Natural Language processing (NLP) method.```
 
 Conclusion:
 Thus, Machine Learning plays an important role in Data Science by automating the process, and forecasting the outcomes for commercial decision-making. 
