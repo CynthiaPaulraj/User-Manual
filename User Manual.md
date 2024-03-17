@@ -65,6 +65,7 @@ A neural network teaches computers to process data that is inspired by the human
 Neural networks make intelligent decisions with limited human assistance. It makes general observations without explicit training. It shows its best results using Natural Language processing (NLP) method.
 ```
 
-Conclusion:
+##### Conclusion:
+
 Thus, Machine Learning plays an important role in Data Science by automating the process, and forecasting the outcomes for commercial decision-making. 
 
