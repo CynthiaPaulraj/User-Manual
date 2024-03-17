@@ -1,4 +1,4 @@
-# The Role of Machine Learning in Data Science 
+# The Role of Machine Learning in Data Science
 ## Introduction:
 **Machine Learning** plays a vital role in Data Science. Data Science is a study of data in a systematic manner which helps in identifying the solutions for the problem and decision-making in business. **Data Science** helps in analysing the data to predict the future outcomes. 
 Machine Learning processes the data automatically, studies the data, and gives us an insight for business to reach its goal. It helps in getting an overview of marketing, strategy, and customer desires. The machine learning has been trained with the data model to make the real-time predictions.
@@ -29,7 +29,7 @@ Data Visualization is a representation of data through common graphics, such as 
 
 **_Figure 1: Data Science Lifecycle_**
 
-For more information [click here]https://www.ibm.com/topics/data-science#:~:text=the%20next%20step-,What%20is%20data%20science%3F,hidden%20in%20an%20organization%27s%20data.
+For more information [click here](https://www.ibm.com/topics/data-science#:~:text=the%20next%20step-,What%20is%20data%20science%3F,hidden%20in%20an%20organization%27s%20data.)
 
 The role of Machine Learning in Data Science:
 Machine Learning:
@@ -43,7 +43,12 @@ Machine Learning types:
 4.	Ensemble Learning
 5.	Neural Networks
  
-Figure 2: Types of Machine Learning
+~~**_Figure 2: Types of Machine Learning_**~~
+
+| Supervised Learning | Unsupervised Learning | Reinforcement Learning |
+| ------ | ------| ------------- |
+| Supervised Learning is a category of machine learning that uses labeled datasets to train algorithms to predict outcomes and recognize patterns.  The training model continues until the model achieves the desired level of accuracy on the training data.  Regression, Decision tree, Random Forest, KNN, Logistic Regression statistics methods are used in the Supervised Learning. | Unsupervised learning is a type of machine learning that learns from data without human intervention. These models are given unlabeled data and allowed to discover patterns and insights without any guidance or instruction. It uses self-learning algorithms. This is best suited for large complex data’s and useful in identifying undetected patterns of data. Clustering statistics method is used in this model.| Reinforcement Learning (RL) is machine learning technique that trains software to make decisions to achieve the most optimal results. It mimics the trial-and-error learning process that human use to achieve their goals. |
+
 
 1.	Supervised Learning:
 
