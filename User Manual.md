@@ -49,26 +49,14 @@ Machine Learning types:
 | ------ | ------| ------------- |
 | Supervised Learning is a category of machine learning that uses labeled datasets to train algorithms to predict outcomes and recognize patterns.  The training model continues until the model achieves the desired level of accuracy on the training data.  Regression, Decision tree, Random Forest, KNN, Logistic Regression statistics methods are used in the Supervised Learning. | Unsupervised learning is a type of machine learning that learns from data without human intervention. These models are given unlabeled data and allowed to discover patterns and insights without any guidance or instruction. It uses self-learning algorithms. This is best suited for large complex data’s and useful in identifying undetected patterns of data. Clustering statistics method is used in this model.| Reinforcement Learning (RL) is machine learning technique that trains software to make decisions to achieve the most optimal results. It mimics the trial-and-error learning process that human use to achieve their goals. |
 
+- [x] Ensemble Learning
+- [ ] Neural Networks
 
-1.	Supervised Learning:
-
-Supervised Learning is a category of machine learning that uses labeled datasets to train algorithms to predict outcomes and recognize patterns.  The training model continues until the model achieves the desired level of accuracy on the training data.  Regression, Decision tree, Random Forest, KNN, Logistic Regression statistics methods are used in the Supervised Learning.
-
-2.	Unsupervised Learning:
-
-Unsupervised learning is a type of machine learning that learns from data without human intervention. These models are given unlabeled data and allowed to discover patterns and insights without any guidance or instruction. It uses self-learning algorithms. This is best suited for large complex data’s and useful in identifying undetected patterns of data. Clustering statistics method is used in this model.
-
-3.	Reinforcement Learning:
-
-Reinforcement Learning (RL) is machine learning technique that trains software to make decisions to achieve the most optimal results. It mimics the trial-and-error learning process that human use to achieve their goals.
-
-RL use a reward-and-punishment paradigm as they process the data. They learn from the feedback of each action and self-discover the best processing path to achieve the final outcomes.
-
-4.	Ensemble Learning:
+`Ensemble Learning`
 
 Ensemble Learning is an approach in which two or more models are fitted to the same data, and the predictions for each model are combined to achieve better performance. It yields better results if there are significant differences among the models
 
-5.	Neural Networks:
+Neural Networks:
 
 A neural network teaches computers to process data that is inspired by the human brain. It is also called deep learning. It uses interconnected nodes in a layered structure that resembles the human brain.
 
