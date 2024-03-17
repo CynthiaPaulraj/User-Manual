@@ -6,16 +6,22 @@ Machine Learning processes the data automatically, studies the data, and gives u
 Data Science is a study of data to get an insight for business. It combines mathematics, statistics, artificial intelligence, and computer engineering to analyse the large amount of data and get the predictions for decision-making in business.
 #### Data Science Life Cycle
 Data Science uses machine learning to get predictions for decision-making. To get the predictions, data science follows a process to make the large amount of raw data to the thoughtful insights.
+
 **_1.	Business Understanding:_**
 To succeed in business, a person must understand commercial enterprise goals relevant to the business. Only if a person able to predict the outcomes like customer desires, helps in minimizing the loss and predict the rate of succeed. 
+
 **_2.	Data Mining:_**
 Data Mining is the process of analysing the large amount of data to identify the pattern and extract the useful information. It helps in increasing the sales and decrease the unnecessary cost.
+
 **_3.	Data Cleaning:_**
 Data Cleaning is the process of fixing, removing the incorrect data, remove the duplicate data, fill the incomplete data with the dataset predictions. As the raw data combines from multiples sources, a lot of chances are there to be mislabeled or duplicated. The Data cleaning helps in getting the accurate data.
+
 **_4.	Data Exploaration:_**
 Data Exploaration helps in analysing the data through data visualization and statistical techniques to describe the dataset characteristics, such as size, quantity, gender, and accuracy to better understand the data. 
+
 **_5.	Predictive Modeling:_**
 Predictive Modeling uses statistical techniques to predict the future behavior. It analyses historical and current data and generate a model to predict the future outcomes.
+
 **_6.	Data Visualization:_**
 Data Visualization is a representation of data through common graphics, such as charts, plots, infographics, animations for better understanding.
  
