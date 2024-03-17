@@ -5,7 +5,8 @@ Machine Learning processes the data automatically, studies the data, and gives u
 ### Data Science: 
 Data Science is a study of data to get an insight for business. It combines mathematics, statistics, artificial intelligence, and computer engineering to analyse the large amount of data and get the predictions for decision-making in business.
 #### Data Science Life Cycle
-Data Science[^1] uses machine learning to get predictions for decision-making. To get the predictions, data science follows a process to make the large amount of raw data to the thoughtful insights.
+Data Science uses machine learning to get predictions for decision-making. To get the predictions, data science follows a process to make the large amount of raw data to the thoughtful insights.[^1] 
+[^1]:Data Science is a study of data
 
 **_1.	Business Understanding:_**
 To succeed in business, a person must understand commercial enterprise goals relevant to the business. Only if a person able to predict the outcomes like customer desires, helps in minimizing the loss and predict the rate of succeed. 
